@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Reset Password",
+    "content": "Users can reset their password by going to Settings, opening Security, and selecting Reset Password. A password reset email is sent to the registered email address. If the reset email does not arrive, users should check the spam folder or request another reset link."
+  },
+  {
+    "title": "Account Creation",
+    "content": "New users can create an account by clicking Sign Up on the homepage. They must enter a valid email address, create a password, and verify their email before logging in for the first time."
+  },
+  {
+    "title": "Subscription Upgrade",
+    "content": "Users can upgrade their subscription from the Billing section in account settings. Available plans include Basic, Pro, and Enterprise. Payment methods include credit card and UPI."
+  },
+  {
+    "title": "Refund Policy",
+    "content": "Refund requests can be submitted within seven days of subscription purchase. Refunds are reviewed only if the user has not exceeded the usage limit of the purchased plan."
+  },
+  {
+    "title": "Two-Factor Authentication",
+    "content": "Users can enable two-factor authentication in Settings under the Security tab. Once enabled, each login requires both the password and a one-time verification code sent to the user's device."
+  },
+  {
+    "title": "Profile Update",
+    "content": "Users can update their profile information such as name, phone number, and profile photo in the Profile section of account settings. Changes are saved immediately after submission."
+  }
+]
